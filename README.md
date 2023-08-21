@@ -6,3 +6,5 @@ This is a Python script I created for the purposes of easily connecting to any W
 I'm sure this would work on other distros, but I created it with Gentoo in mind.
 
 In order for this to work, you will obviously need to emerge wpa_supplicant and dhcpcd.
+
+I highly recommend adding an alias that runs this file to your bashrc (or whatever you use) so that you may run it with a simple command.
